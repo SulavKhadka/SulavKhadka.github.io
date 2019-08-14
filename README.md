@@ -1,12 +1,8 @@
-# Sulav Khadka
+# Hello I am Sulav.
 
-___
-
-### Welcome to the site. 
-
-### The website is still under construction.
-
-### When(not if) it as done, It will just be a simple website to showcase the random little projects/scripts I have come up with over time.
+### Welcome to my site. 
+### This website is still under construction.
+### When it as done, It will just be a simple website to showcase the random little projects/scripts I have come up with over time.
 
 ---
 
